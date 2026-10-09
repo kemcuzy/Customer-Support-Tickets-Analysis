@@ -2,14 +2,12 @@
 
 ### Turning Customer Support Data into Actionable Business Insights
 
-**Author:** Kemi A.
 **Project Type:** Data Analytics | Customer Experience | Business Intelligence
 **Tool:** Microsoft Excel
 **Project Status:** Completed
 
----
 
-## 1. Introduction
+# 1. Introduction
 
 Customer support plays an essential role in customer retention, brand reputation, and business growth. Every support ticket represents a customer who needs assistance, has encountered a problem, or requires clarification about a product or service.
 
@@ -28,7 +26,6 @@ The analysis uses Microsoft Excel to transform raw customer support data into me
 * Identify potential operational inefficiencies and customer experience challenges.
 * Develop actionable recommendations to improve customer support performance.
 
----
 
 ## 2. Analytical Approach and Data Story
 
@@ -53,7 +50,7 @@ The dataset tells the story of customer interactions with a support team. It hel
 
 By connecting these areas, the analysis supports a broader understanding of the customer support process, from the initial request to its eventual resolution and the customer's reported experience.
 
----
+
 
 ## 3. Instruments and Tools Used
 
@@ -70,7 +67,7 @@ The following tools and Excel features were used in the project:
 | Slicers                | Filtering dashboard results interactively                 |
 | Excel Dashboard        | Presenting KPIs and key findings in one view              |
 
----
+
 
 ## 4. Pre-Analysis: Understanding the Dataset
 
@@ -110,7 +107,7 @@ The preparation process included:
 
 The dataset includes a Date of Purchase field, but ticket volume trends should only be interpreted as trends in support demand over time if the available date is appropriate for that purpose. Purchase date and ticket creation date are not necessarily the same.
 
----
+
 
 ## 5. Initial Observations
 
@@ -167,7 +164,7 @@ Canon EOS had the highest displayed ticket count among the products shown in the
 
 High ticket volume can indicate greater product usage, recurring technical problems, usability challenges, or other support needs. Further investigation of ticket subjects and descriptions is necessary to determine the underlying causes.
 
----
+
 
 ## 6. In-Analysis: Key Analytical Areas
 
@@ -241,7 +238,7 @@ Chat recorded the fastest average response time, while social media recorded the
 
 **Business value:** This comparison helps managers identify differences in service delivery and determine where operational improvements may be needed.
 
----
+
 
 ## 7. My Dashboard
 
@@ -273,7 +270,7 @@ The dashboard's purpose is to make the analysis easier to understand and help st
 
 *Figure 1: Customer Support Tickets Analytics Dashboard developed in Microsoft Excel.*
 
----
+
 
 ## 8. Who This Analysis Matters To and Why
 
@@ -301,7 +298,7 @@ The dashboard offers a concise view of customer support performance that can inf
 
 Although customers are not the direct users of the dashboard, they benefit when organizations use support analytics to provide faster responses, more effective resolutions, and clearer communication.
 
----
+
 
 ## 9. Post-Analysis Insights
 
@@ -337,7 +334,7 @@ The resolution-by-priority chart makes it possible to compare ticket status acro
 
 The next step is to calculate the percentage closed within each priority group and examine whether critical and high-priority tickets are being addressed within the organization's service-level targets.
 
----
+
 
 ## 10. Overall Recommendations
 
@@ -390,7 +387,7 @@ Future versions of this project could include:
 
 These additions would provide a more comprehensive view of support efficiency and customer experience.
 
----
+
 
 ## 11. Conclusion
 
@@ -404,7 +401,7 @@ Ultimately, customer support analytics is not simply about counting tickets. It 
 
 **The goal is to turn customer support data into better processes, more effective resolutions, and a stronger customer experience.**
 
----
+
 
 
 **Project takeaway:** Turning customer support data into insights that help organizations monitor service performance and improve customer experience.
